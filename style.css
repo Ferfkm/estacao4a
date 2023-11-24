@@ -1,0 +1,53 @@
+body {  
+    background: rgba(0, 0, 0, 0.808); 
+    }
+    h1 {
+    text-align:center;
+    font-size: 60px; 
+    color: #c2b00dc4; 
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+    }
+    p {
+
+    font-size: 30px; 
+    color: #726b0b; 
+    margin: 10px ;
+    text-align:center;
+    }
+    img {
+        width: 400px; 
+        height: 400px; 
+        margin: 60px;
+        margin-left: 120px;
+        border: 10px solid rgb(109, 99, 6);
+    
+    }
+    .cabecario{
+        background-color: #c2b00dc4;
+        display: flex;
+
+    }
+    .logo{
+        width: 50px;
+        height: 50px;
+        border: 0px;
+        margin-left: 50px;
+    }
+    .lista{
+        display: flex;
+        margin-top: 70px;
+        margin-left: 300px;
+        
+    }
+
+.itemlista{
+    list-style: none;
+    text-transform: uppercase;
+    color:#726b0b;
+    font-size: 25px;
+    padding-left: 100px;
+
+
+
+}
